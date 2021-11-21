@@ -1,0 +1,27 @@
+{
+  "name": "cloud-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimaAlabsi/cloud-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimaAlabsi/cloud-server/issues"
+  },
+  "homepage": "https://github.com/DimaAlabsi/cloud-server#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3",
+    "jest": "^27.3.1",
+    "socket.io": "^4.4.0",
+    "uuid": "^8.3.2"
+  }
+}
